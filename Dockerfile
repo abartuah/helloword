@@ -2,5 +2,5 @@
 From tomcat:8-jre8 
 
 # Maintainer 
-MAINTAINER "abartuah@yahoo.com" 
+MAINTAINER Abraham Bartuah
 COPY ./webapps/target/webapp.war /opt/tomcat/webapps
